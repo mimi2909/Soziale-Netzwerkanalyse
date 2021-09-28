@@ -1,2 +1,2 @@
-# Soziale-Netzwerkanalyse_-bung
+# Übungen
 Drittes Semester
