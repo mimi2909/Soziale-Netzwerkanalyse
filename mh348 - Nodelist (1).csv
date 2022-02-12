@@ -1,13 +1,13 @@
 id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
-fb,brantner,Franziska Brantner,0,2,1979,1,4,1,2,x,1,14047,4470,2747,26
+fb,brantner,Franziska Brantner,0,2,1979,1,4,1,2,,1,14047,4470,2747,26
 ft,toncar,Florian Toncar,0,1,1979,1,4,2,3,1,3,8588,3069,4478,99
 rss,sutter,Rita Schwarzelühr-Sutter,0,2,1962,1,5,3,1,2,2,4249,1534,2941,17
-tl,lindner,Tobias Lindner,0,1,1982,2,4,3,2,x,1,10503,3579,4920,x
+tl,lindner,Tobias Lindner,0,1,1982,2,4,3,2,,1,10503,3579,4920,
 bs,strasser,Benjamin Strasser,0,1,1987,1,6,2,3,2,0,5811,3920,3372,287
-co,oezdemir,Cem Özdemir,0,1,1965,3,5,4,2,3,2,317191,105000,162574,x
-mat,theurer,Michael A. Theurer,0,1,1967,1,5,3,3,1,2,8478,3744,27913,x
-ck,kuehn,Chris Kühn,0,1,1979,1,7,1,2,x,3,4786,1660,97,35
-jb,brandenburg,Jens Brandenburg,0,1,1986,1,4,1,3,x,0,5407,3321,x,x
+co,oezdemir,Cem Özdemir,0,1,1965,3,5,4,2,3,2,317191,105000,162574,
+mat,theurer,Michael A. Theurer,0,1,1967,1,5,3,3,1,2,8478,3744,27913,
+ck,kuehn,Chris Kühn,0,1,1979,1,7,1,2,,3,4786,1660,97,35
+jb,brandenburg,Jens Brandenburg,0,1,1986,1,4,1,3,,0,5407,3321,,
 mw,wirtschaft,Ministerium Wirtschaft,1,,,,,,,,,,,,
 mf,finanzen,Ministerium Finanzen,1,,,,,,,,,,,,
 mi,inneres,Ministerium Inneres,1,,,,,,,,,,,,
